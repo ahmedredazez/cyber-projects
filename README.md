@@ -31,7 +31,10 @@ We used two virtual machines:
 - Log analysis (Windows & Linux)  
 - Network traffic analysis with Wireshark  
 - Attack simulation (brute force, DDoS)  
-- Incident detection and response  
+- Incident detection and response
+
+📄 Project Report
+[View the full project report (PDF)](Incident%20Analysis%20and%20Response%20Project.pdf)
 
  🔗 References
 - [Wazuh Documentation](https://documentation.wazuh.com/)
